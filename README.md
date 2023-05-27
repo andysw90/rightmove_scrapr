@@ -1,1 +1,3 @@
-# rightmove_scrapr
+# Rightmove scraper
+
+Experimenting with web scraping from the Rightmove website
